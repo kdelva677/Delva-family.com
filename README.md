@@ -93,7 +93,7 @@ Delva group.com
     <p>Achte Amazon, Steam, Google Play, Apple, elatriye. Livrezon pa WhatsApp oswa imel.</p>
   </section>  <section class="section" id="contact">
     <h2>Kontakte Nou</h2>
-    <p>Voye mesaj sou WhatsApp: <a href="https://wa.me/509XXXXXXXX">+509 XXXXXXXX</a></p>
+    <p>Voye mesaj sou WhatsApp: <a href="https://wa.me/50955882795">+50946386071a></p>
   </section>  <footer>
     <p>&copy; 2025 Delva Group. Tout dwa rezève.</p>
   </footer>
